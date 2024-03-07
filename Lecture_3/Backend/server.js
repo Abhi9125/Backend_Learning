@@ -9,7 +9,7 @@ const app = express();
 //   res.send("Server is ready");
 // });
 
-app.get("/jokes", (req, res) => {
+app.get("/api/jokes", (req, res) => {
   res.send([
     {
       id: 1,
@@ -27,7 +27,7 @@ app.get("/jokes", (req, res) => {
       content: "I am 3rd joke",
     },
     {
-      id: 1,
+      id: 4,
       title: "jock 4",
       content: "I am 4th joke",
     },

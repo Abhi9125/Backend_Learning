@@ -14,10 +14,10 @@
 
 ### Commit - 1 complete.
 
-- 16:15 Connecting backend with frontend in Fullstack Proxy and CORS
+- 16:15 Connecting backend with frontend in Fullstack Proxy and CORS => Handle CROS error by using Proxy.
 - 18:01 Connect backend with frontend
 - 21:36 Introduction to backend and frontend connection
-- 23:47 Request a GET from Jio
+- 23:47 Request a GET from axios
 - 27:08 Cross-origin requests and whitelisting URLs to avoid errors.
 - 28:37 Configure whitelisting to allow only specified IPs or domains.
 - 31:51 Standardization of backend API
@@ -28,3 +28,10 @@
 - 43:20 Connect backend with frontend using Fullstack Proxy and CORS
 - 46:41 Issue with propagating frontend changes in the backend
 - 48:57 Connecting backend with frontend using proxy
+
+#### With the help of proxy we solve the problem of CROS.
+
+#### Learn how to add axios with our app --
+
+- Frist we install the package - npm install axios.
+  [Bing_Notes](https://sl.bing.net/bcF7rx4Sd5M)
